@@ -40,24 +40,36 @@ body{
     align-items: center;
 }
 .main{
-    background-color: #000;
+    background-color: #FFF;
     height: 100%;
-    width: 45em;
+    width: 40em;
+    
+}
+.main p {
+    padding-right: 2em;
+    font-size: 20px;
+}
+.main h1 {
+    text-align: center;
 }
 .estadio{
     height: 100%;
-    width: 25em;
+    width: 30em;
+    background-color: black;
+    
 }
 .estadio img{
-    width: 21em;
+    width: 26em;
     margin: 2em 2em 0 2em;
     border-radius: 2%;
 }
 .estadio h1{
     margin: 0;
     padding: 0.5em 1em 0 1em;
+    color:#FFF;
 }
 .estadio p{
     margin: 0;
     padding: 1em 2em 0 2em;
+    color:#FFF;
 }
